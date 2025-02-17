@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+mutagen
+pydub
+psutil
+tqdm
+aiohttp
+asyncio
+tenacity
